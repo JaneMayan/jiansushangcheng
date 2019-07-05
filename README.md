@@ -1,8 +1,8 @@
 # jiansushangcheng
 
-![image](https://github.com/JaneMayan/jiansushangcheng/blob/master/1.jpg)
-![image](https://github.com/JaneMayan/jiansushangcheng/blob/master/2.jpg)
-![image](https://github.com/JaneMayan/jiansushangcheng/blob/master/3.jpg)
+![image](https://github.com/JaneMayan/jiansushangcheng/blob/master/1.png)
+![image](https://github.com/JaneMayan/jiansushangcheng/blob/master/2.png)
+![image](https://github.com/JaneMayan/jiansushangcheng/blob/master/3.png)
 
 if you have any question, please contact me with no hesitate
 
