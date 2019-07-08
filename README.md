@@ -1,6 +1,5 @@
 # jiansushangcheng
 
-![image](https://github.com/JaneMayan/jiansushangcheng/blob/master/1.png)
 ![image](https://github.com/JaneMayan/jiansushangcheng/blob/master/2.png)
 ![image](https://github.com/JaneMayan/jiansushangcheng/blob/master/3.png)
 
